@@ -1,0 +1,66 @@
+    1  pwd
+    2  git clone https://github.com/joaoUA/LI2021-teste.git
+    3  ls
+    4  ls
+    5  cd LI2021-teste
+    6  ls
+    7  cd ..
+    8  ls
+    9  cd LI2021-teste
+   10  ls
+   11  mkdir A110532
+   12  ls
+   13  mv README.md
+   14  mv README.md A110532
+   15  ls
+   16  cd A110532
+   17  ls
+   18  cd ..
+   19  git status
+   20  git add .
+   21  git commit -m "Moved Readme file to new folder"
+   22  git config --global user.email "joaop.oliveira@ua.pt"
+   23  git config --global user.name "joaoOliveira"
+   24  git commit -m "Moved readme file to new folder"
+   25  git push
+   26  git push
+   27  clear
+   28  git push
+   29  pwd
+   30  touch index.html
+   31  ls
+   32  clear
+   33  ls
+   34  code index.html
+   35  ls
+   36  vi index.html
+   37  cat index.html
+   38  clear
+   39  git status
+   40  git ad.d 
+   41  git add .
+   42  git commit -m "3ª Tarefa"
+   43  git push
+   44  git push
+   45  git push
+   46  git push
+   47  ls
+   48  git status
+   49  git add .
+   50  git commit -m "3ª Tarefa fixed"
+   51  git push
+   52  git push
+   53  git status
+   54  git status
+   55  git add .
+   56  git commit -m "4ª Tarefa"
+   57  git push
+   58  ls
+   59  cp index.html disciplina.html
+   60  ls
+   61  ls
+   62  git status
+   63  git add .
+   64  git commit -m "5ª Tarefa"
+   65  git push
+   66  history > meusComandos.txt
